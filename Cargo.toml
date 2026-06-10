@@ -1,0 +1,10 @@
+[package]
+name = "WallpaperY"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+[[bin]]
+name = "WallpaperY"
+path = "main.rs"
