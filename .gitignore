@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 /target
-=======
 # Logs
 logs
 *.log
@@ -25,4 +23,3 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
->>>>>>> abb91de (Initial tauri commit)
